@@ -36,27 +36,35 @@ Figma
 Home page
 
 <img style="width: 100%; height: 100%" src="https://via.placeholder.com/650x974" />
-
+width: 650px;
+height: 974px;
+flex-shrink: 0;
 background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 
 page 2
 
 <img style="width: 100%; height: 100%" src="https://via.placeholder.com/360x640" />
-
+width: 360px;
+height: 640px;
+flex-shrink: 0;
 background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 
 page 3
 
 <img style="width: 100%; height: 100%; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset" src="https://via.placeholder.com/360x634" />
-
+width: 360px;
+height: 634px;
+flex-shrink: 0;
 background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset;
 
 page 4
 
 <img style="width: 100%; height: 100%" src="https://via.placeholder.com/360x640" />
-
-background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+width: 360px;
+height: 640px;
+flex-shrink: 0;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 ```
 
 ## OUTPUT:
